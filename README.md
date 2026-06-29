@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./icon_n.webp" alt="AniFrameLab Icon Light" width="120" /> <img src="./icon_d.webp" alt="AniFrameLab Icon Dark" width="120" />
+<img src="./frames/icon_n.webp" alt="AniFrameLab Icon Light" width="120" /> <img src="./frames/icon_d.webp" alt="AniFrameLab Icon Dark" width="120" />
 
 # AniFrames
 
